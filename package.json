@@ -1,0 +1,11 @@
+{
+  "name": "pdf-esign",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "git@github.com-tinhphanv:TpvHub/pdf-esign.git",
+  "author": "<tinh.phan.v@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-forge": "^0.7.6"
+  }
+}

@@ -1,2 +1,1 @@
-# pdf-esign
-pdf-esign
+Read `main.test.js` file to see how this package works! Thank you!
